@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ShouryaSrivastava01
+# 👋 Hi, I’m Shourya Srivastava
 - 👀 I’m interested in _Web Development , Open Source , Competitive Programming_
 - 🌱 I’m currently learning _React , Cloud_
 - 📫 How to reach me: Email me at -shouryasrivastava0001@gmail.com
