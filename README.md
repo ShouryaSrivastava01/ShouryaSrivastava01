@@ -21,12 +21,12 @@
 ![MonngoDB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
 ## Connect me
-<a href="linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
+<a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
+<a href="https://www.hackerrank.com/shouryasrivasta2"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/HackerRank.svg" width=40></a>
+<a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
+<a href="https://www.instagram.com/shourya.sri.001/"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Instagram.svg" width=40></a>
+<a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
+<a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
 <a href=""><img src=""></a>
 
 <!---
