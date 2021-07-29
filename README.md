@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @ShouryaSrivastava01
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning web development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 To contact mail me at shouryasrivastava0001@gmail.com
+- 👀 I’m interested in _Web Development , Open Source , Competitive Programming_
+- 🌱 I’m currently learning _React , Cloud_
+- 📫 How to reach me: Email me at -shouryasrivastava0001@gmail.com
 
 ## Skills
 ![React](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
