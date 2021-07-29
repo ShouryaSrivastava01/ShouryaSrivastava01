@@ -23,7 +23,6 @@
 ## Connect me
 <a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
 <a href="https://www.hackerrank.com/shouryasrivasta2"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/HackerRank.svg" width=40></a>
-
 <a href="https://www.instagram.com/shourya.sri.001/"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Instagram.svg" width=40></a>
 
 
