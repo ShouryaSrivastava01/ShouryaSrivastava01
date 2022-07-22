@@ -22,6 +22,8 @@
 ![Postman](https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465)
 ## Database 
 ![MonngoDB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+<img width="92" alt="mysql" src="https://user-images.githubusercontent.com/72685413/180370084-bdba3b5a-2de0-4d3f-b176-cb2abfbec53e.png">
+
 
 ## Connect me
 <a href="https://www.linkedin.com/in/shourya-srivastava-568a941ba"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width=40></a>
